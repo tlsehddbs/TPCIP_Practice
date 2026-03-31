@@ -1,0 +1,50 @@
+# Unity 기본
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# 사용자 설정 파일 제외
+UserSettings/
+Assets/AssetStoreTools*
+
+# OS별로 불필요한 시스템 파일 제외
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE 설정 파일 제외 (Rider, Visual Studio)
+.idea/
+.cache/
+.vs/
+.vscode/
+*.iml
+*.ipr
+*.iws
+*.dotSettings
+*.sln
+*.slnx
+*.sln.docstates
+*.csproj
+*.unityproj
+*.suo
+*.user
+*.userosscache
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.editorconfig
+*.history/
+
+!*.meta
